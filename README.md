@@ -1,3 +1,4 @@
 # info
-Amina Azizli
+Amina Azizli, 
+
 Freshman at Bilkent university
